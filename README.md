@@ -1,1 +1,1 @@
-# Inventory-Analysis-Case-Study
+# Inventory Analysis Case Study
